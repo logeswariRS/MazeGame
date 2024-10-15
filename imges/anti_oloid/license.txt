@@ -1,0 +1,8 @@
+Model Information:
+* title:	Anti Oloid
+* source:	https://sketchfab.com/3d-models/anti-oloid-69ca982a4ebb4976845030dbff301bc6
+* author:	SonnyG1 (https://sketchfab.com/SonnyG1)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

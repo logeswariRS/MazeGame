@@ -1,0 +1,45 @@
+ 
+  body {
+      overflow: scroll;
+      margin: 0;
+      color: rgb(0, 1, 2);
+  }#uiDiv {
+     width: 100%;
+     height: 200px;
+     padding: 10px;
+     margin:200px 0px ;
+     background-color: #f7f4f7;
+     border-right: 1px solid #ddd;
+     overflow-y: auto;
+     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+     position: absolute;
+ }
+
+ /* Canvas */
+ #canvas {
+     margin: -1px;
+     background-color: #eaeaea;
+ }
+
+ .uibuttons{
+    padding: 15px;
+    margin-left: 700px;
+    margin-top: 50px;
+    font-size: 1.2rem;
+    color: rgb(245, 244, 247);
+    background-color: rgb(16, 168, 11);
+    border-radius: 10px;
+   
+ }
+ #coins{
+    padding: 20px;
+    margin: 20px 1330px;
+    align-content: center;
+    position: absolute;
+ }
+ #score{
+    padding: 10px;
+    position: absolute;
+        padding: 20px;
+        margin: 180px -220px
+ }
